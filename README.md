@@ -14,6 +14,7 @@
 8. [Running the Tests](#8-running-the-tests)
     - [To Run Tests](#81-to-run-tests)
     - [Test Example Output](#82-test-example-output)
+9. [Contact information](#9-contact-information)
 
 ---
 
@@ -145,3 +146,8 @@ OK
 
 ---
 
+## 9. Contact information 
+Completed by Timofey Shmakov  
+Contacts for communication:
+- email: timofei.schmackov@yandex.ru
+- telegram: https://t.me/tim31560
